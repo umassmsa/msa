@@ -20,13 +20,14 @@ Check out some recent events here on our [instagram](https://www.instagram.com/m
 
 <!-- TODO include clickbait internship posting drop here -->
 ### Mailing List
-Can't get enough McCormack Sports Analytics?
-Want the latest updates about future coding workshops, speaker events, social gatherings?
-Make Mondays the highlight of your week with the drop of our weekly newsletter.
-Subscribe to our [mailing list](https://forms.gle/drDTreKZXTgobWc5A){:target="_blank"}!
+Can't get enough McCormack Sports Analytics? <br>
+Want the latest updates about future coding workshops, speaker events, social gatherings? <br>
+Make Mondays the highlight of your week with the drop of our weekly newsletter. <br>
+Subscribe [here](https://forms.gle/drDTreKZXTgobWc5A){:target="_blank"}!
 
-### Math major? Non-math major? 
-All are welcome!  We promote career development, technical skill growth, and networking regardless of your major or future interests!
+### Sport Management major? Non-Isenberg major? 
+All are welcome!  We have CS majors, Math majors, Finance majors, Sports Management majors, and more!
+A love for sports analytics cannot be contained in a just a major! 
 
-### Experience required?
-Only the experience of wanting to learn and grow!
+### Coding experience required?
+No!  All are welcome regardless of skill experience!

@@ -11,15 +11,16 @@ menu:
 - {name: 'Resources',          url: 'resources'}
 # - {name: 'Sample Posts',       url: 'sample-posts'}
 # - {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+# - {name: 'About',              url: 'about'}
+- {name: 'Join Us!',           url: 'join'}
+- {name: 'Contact',            url: 'contact'} 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+- {icon: 'linkedin', link:    'https://www.linkedin.com/company/mccormack-strategy-and-analytics-club-umass/'}
 - {icon: 'instagram', link:  'https://www.instagram.com/mccormackumass/'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
+# - {icon: 'facebook', link:   'https://www.facebook.com/profile.php?id=100094054570514'}
+- {icon: 'envelope', link:   'mailto:msaumass1@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
