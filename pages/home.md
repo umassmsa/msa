@@ -20,7 +20,8 @@ UMass organization of students in interested in:
 ### What do we do?
 [Join us](join) in our weekly meetings in [TBD room] on [TBD day of week] we
 - Hold coding workshops in Python and R working with web scraping, apis, and data visualization
-- Host mock NFL, NBA, MLB, and NHL drafts, trade deadlines, and more
+- Network with guest speakers and alumni
+- Host mock NFL, NBA, MLB, and NHL events like drafts, trade deadlines, and more
 - Compete in fantasy football and basketball leagues and in a number of small forecasting events
 
 ### Where do I start?
