@@ -10,6 +10,7 @@ permalink: /home
 ## MSA - McCormack Sports Analytics Club
 ### Who are we?
 UMass organization of students in interested in:
+- Working in the field of sports analytics
 - Creating predictive models based on live and static data
 - Visualizing and querying historical sports data
 - Applying analytics to fantasy sports
