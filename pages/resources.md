@@ -25,7 +25,9 @@ Working with sports analytics is the perfect match of challenging technical skil
 <!-- TODO: research these classes -->
 <!-- TODO send to CICS to write these blurbs for me? -->
 ## UMass Coding Courses
-![UMass CICS Logo](https://nfordumass.github.io/msa//assets/img/cics.png)
+<br>
+<!-- TODO may not need this image -->
+![UMass CICS Logo](https://nfordumass.github.io/msa/assets/img/cics.png) <br>
 Taught in Python, these UMass Introductory CS courses offer a great foundation for working with data science, web scraping, and understanding of data structures. <br> 
 ### CICS 110: Foundations of Programming <br>
 - No experience required!
