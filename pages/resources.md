@@ -8,6 +8,7 @@ permalink: /resources
 
 # Where to Start
 It can be overwhelming.  <br>
+
 Do I need coding skills?  <br>
 Where do I get the data?  <br>
 How do I analyze the data? <br>
@@ -49,16 +50,17 @@ Taught in Python, these UMass Introductory CS courses offer a great foundation f
 ### Microsoft Excel
 Excel can be a great place to start for hand-scraping statistics.
 Don't have a Windows? No problem!
-The free student version of Microsoft Excel
+The **free** student version of Microsoft Excel is available to all UMass students!
 
 <!-- TODO image of RStudio files -->
 ### RStudio
+Fantastic **free**, open source platform for data analysis and visualization
 
 ### Tableau Student License
-Learn about Tableau
+A one year **free** student license for a professional quality data viz service 
 
 ### Jupyter Notebooks
-Run your own datascraping for NFL, NBA, and more!
+A **free** programming notebook application where you can integrate Python and text to analyze and visualize data, but also scrape data from the web!
 
 
 ## Great Databases

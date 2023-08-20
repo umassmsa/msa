@@ -10,12 +10,14 @@ permalink: /join
 <!-- TODO figure out weekly meeting dates -->
 Join our 50+ members in the fastest growing club in Isenberg!  
 
+### Weekly Meetings
 In our weekly meetings in [TBD room] on [TBD day of week] we
 - Hold coding workshops in Python and R working with web scraping, apis, and data visualization
 - Network with guest speakers and alumni
 - Host mock NFL, NBA, MLB, and NHL events like drafts, trade deadlines, and more
 - Compete in fantasy football and basketball leagues and in a number of small forecasting events
 
+### Instagram
 Check out some recent events here on our [instagram](https://www.instagram.com/mccormackumass/){:target="_blank"}!
 
 <!-- TODO include clickbait internship posting drop here -->
