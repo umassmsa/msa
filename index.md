@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Where Passion Meets Career.
-permalink: /home
+permalink: index
 ---
 <!-- TODO big spell check -->
 
