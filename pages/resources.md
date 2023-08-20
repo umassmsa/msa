@@ -6,7 +6,6 @@ permalink: /resources
 ---
 <!-- TODO image of coding? -->
 
-# Where to Start
 It can be overwhelming.  <br>
 
 Do I need coding skills?  <br>
@@ -72,4 +71,5 @@ A **free** programming notebook application where you can integrate Python and t
 ### Historical Gambling Odds
 - [Sports Odds History](https://www.sportsoddshistory.com/){:target="_blank"}
 
-## Coding 
+<!-- TODO later -->
+<!-- ## Coding  -->
