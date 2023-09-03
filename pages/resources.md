@@ -4,72 +4,115 @@ title: Resources
 category: resources
 permalink: /resources
 ---
+
 <!-- TODO image of coding? -->
 
-It can be overwhelming.  <br>
+<!-- Not really the vibe to start this section -->
 
-Do I need coding skills?  <br>
-Where do I get the data?  <br>
-How do I analyze the data? <br>
-How do I visualize it?  <br>
-What does it all mean?
+## Where to Start?
 
-One piece of advice: Have fun!  <br>
-Working with sports analytics is the perfect match of challenging technical skills and engaging content.
+Check out creators, coursework, free resources, and databases.
+But, if you have no direction, then start here:
+
+[10 Steps to Get Started in Sports Analytics](https://www.r-bloggers.com/2021/08/10-steps-to-get-started-in-sports-analytics/){:target="\_blank"}{:rel="noopener noreferrer"}: _an article from r-bloggers_
+
+<!-- One piece of advice: Have fun! <br>
+Working with sports analytics is the perfect match of challenging technical skills and engaging content. -->
 
 ## Creators
-<!-- TODO: add links -->
-- [Dataquest]()
 
+<!-- TODO: add links -->
+
+- Dataquest: _youtuber with more advanced Python web scraping and machine learning_
+  - Python web scraping NBA games [video](https://www.youtube.com/watch?v=o6Ih934hADU){:target="\_blank"}{:rel="noopener noreferrer"}
+  - Predict Football Match Winners With Machine Learning [video](https://www.youtube.com/watch?v=0irmDBWLrco){:target="\_blank"}{:rel="noopener noreferrer"}
+- Kirk Goldsberry: _author, data visualization_
+  - Sprawlball: A Visual Tour of the New Era of the NBA [book](https://www.google.com/search?q=sprawlball&oq=sprawlball&aqs=chrome.0.0i355i512j46i512j0i512l2j0i30l2j69i61j69i60.2250j0j7&sourceid=chrome&ie=UTF-8){:target="\_blank"}{:rel="noopener noreferrer"}
+- Ken Jee: _youtuber with api work, scraping, data science_
+  - nba_api Web Scrape [video](https://www.youtube.com/watch?v=NCyPY-jfb3I&t=1s){:target="\_blank"}{:rel="noopener noreferrer"}
 
 <!-- TODO: research these classes -->
 <!-- TODO send to CICS to write these blurbs for me? -->
-## UMass Coding Courses
-<br>
+
+## UMass Coding Coursework
+
 <!-- TODO may not need this image -->
-![UMass CICS Logo](https://nfordumass.github.io/msa/assets/img/cics.png) <br>
-Taught in Python, these UMass Introductory CS courses offer a great foundation for working with data science, web scraping, and understanding of data structures. <br> 
+<!-- ![UMass CICS Logo](https://nfordumass.github.io/msa/assets/img/cics.png) <br> -->
+
+Taught in Python, these UMass Introductory CS courses offer a great foundation for working with data science, web scraping, and understanding of data structures. <br>
+
 ### CICS 110: Foundations of Programming <br>
+
 - No experience required!
 - Learn to write programs that receive, process, and output data
 - Work with variables, data types, objects, functions, loops, and more!
-- Full Syllabus [here](https://www.cics.umass.edu/sites/default/files/uploads/Academics/cics_110_syllabus.pdf){:target="_blank"}
+- Full Syllabus [here](https://www.cics.umass.edu/sites/default/files/uploads/Academics/cics_110_syllabus.pdf){:target="\_blank"}
 
-### CICS 160: Object Oriented Programming 
+### CICS 160: Object Oriented Programming
+
 - Prereq: CICS 110 or AP CS exam
 - Learn programming beyond the intro level
 - Work with recursion, program testing, abstract data types, inheritance, and more!
-- Full Syllabus [here](https://www.cics.umass.edu/sites/default/files/uploads/Academics/cics_160_syllabus.pdf){:target="_blank"}
+- Full Syllabus [here](https://www.cics.umass.edu/sites/default/files/uploads/Academics/cics_160_syllabus.pdf){:target="\_blank"}
+
+## UMass Sports Management Coursework
+
+Within Isenberg, terrific courses are offered with the focus on Sports Analytics.
+
+### SPORTMGT 461: Sports Analytics
+
+- Prereq: Sport Management major (_if not Sport major, can email Professor Dr. Tyler for approval, but space is limited_)
+- Primarily Excel
+- Exams and projects
+
+### SPORTMGT 462 – Advanced Sport Analytics
+
+- Prereq: SPORTMGT 461
+- Primarily R and/or Python
+- Project-based
 
 <!-- TODO: books, twitter accounts -->
 
 ## Free Software
+
 <!-- TODO add Tableau image -->
 
 ### Microsoft Excel
+
 Excel can be a great place to start for hand-scraping statistics.
 Don't have a Windows? No problem!
 The **free** student version of Microsoft Excel is available to all UMass students!
 
 <!-- TODO image of RStudio files -->
+
 ### RStudio
+
 Fantastic **free**, open source platform for data analysis and visualization
 
 ### Tableau Student License
-A one year **free** student license for a professional quality data viz service 
+
+A one year **free** student license for a professional quality data viz service
 
 ### Jupyter Notebooks
+
 A **free** programming notebook application where you can integrate Python and text to analyze and visualize data, but also scrape data from the web!
 
-
 ## Great Databases
+
 <!-- TODO maybe frame around use-cases: static stats? odds? -->
+
 ### Historical Stats
-- [Sports-Reference](https://www.sports-reference.com/?utm_source=bbr&utm_medium=sr_xsite&utm_campaign=2023_01_srnav){:target="_blank"}
+
+- [Baseball Reference](https://www.baseball-reference.com/){:target="\_blank"}
+- [Basketball Reference](https://www.basketball-reference.com/){:target="\_blank"}
+- [Football Reference](https://www.pro-football-reference.com/){:target="\_blank"}
+- [Kaggle](https://www.kaggle.com/datasets?search=sports){:target="\_blank"}
 
 <!-- TODO configure links to automatically send out -->
-### Historical Gambling Odds
-- [Sports Odds History](https://www.sportsoddshistory.com/){:target="_blank"}
+
+<!-- ### Misc
+
+- [Sports Odds History](https://www.sportsoddshistory.com/){:target="\_blank"} -->
 
 <!-- TODO later -->
 <!-- ## Coding  -->
