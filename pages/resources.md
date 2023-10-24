@@ -14,7 +14,7 @@ permalink: /resources
 Check out creators, coursework, free resources, and databases.
 But, if you have no direction, then start here:
 
-[10 Steps to Get Started in Sports Analytics](https://www.r-bloggers.com/2021/08/10-steps-to-get-started-in-sports-analytics/){:target="\_blank"}{:rel="noopener noreferrer"}: _an article from r-bloggers_
+[10 Steps to Get Started in Sports Analytics](https://www.r-bloggers.com/2021/08/10-steps-to-get-started-in-sports-analytics/){:target="\_blank"}{:rel="noopener noreferrer"}:
 
 <!-- One piece of advice: Have fun! <br>
 Working with sports analytics is the perfect match of challenging technical skills and engaging content. -->
