@@ -11,7 +11,7 @@ plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 url: umassmsa.org
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "McCormack Sports Analytics Club"
+title: "MSA"
 description: "Where Passion Meets Career"
 author: "Noah Ford"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
