@@ -61,11 +61,10 @@ Check out our [officers and members](team) for 2023-2024!
 
 <!-- TODO list a bunch of companies here where students have gone -->
 
-### Where we go
+<!-- ### Where we go
 
 Our members dominate the workforce at the best companies across many industries!
 
 - NFL, NBA, MLB, NHL, NCAA
-- U.S. Olympics, U.S. Soccer, USA Basketball
-- ESPN, NBC
-- Bank of America, Wells Fargo
+- Points Bet, Draftkings, Fangraphs
+- ESPN, NBC -->
