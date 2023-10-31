@@ -8,21 +8,23 @@ google-ID: "UA-112060364-2"
 
 menu:
   - { name: "Home", url: "" }
+  - { name: "GM Challenge", url: "gm" }
   - { name: "Resources", url: "resources" }
   # - {name: 'Sample Posts',       url: 'sample-posts'}
   # - {name: 'Documentation',      url: 'documentation'}
   # - {name: 'About',              url: 'about'}
   - { name: "Join Us!", url: "join" }
-  - { name: "Contact", url: "contact" }
+  # - { name: "Contact", url: "contact" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+  - { icon: "instagram", link: "https://www.instagram.com/msaumass/" }
+  - { icon: "twitter", link: "https://twitter.com/msaumass" }
+  # - {icon: 'facebook', link:   'https://www.facebook.com/profile.php?id=100094054570514'}
   - {
       icon: "linkedin",
       link: "https://www.linkedin.com/company/mccormack-strategy-and-analytics-club-umass/",
     }
-  - { icon: "instagram", link: "https://www.instagram.com/mccormackumass/" }
-  # - {icon: 'facebook', link:   'https://www.facebook.com/profile.php?id=100094054570514'}
   - { icon: "envelope", link: "mailto:msaumass1@gmail.com" }
   - {
       icon: "discord",

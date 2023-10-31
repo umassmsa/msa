@@ -23,7 +23,7 @@ In our weekly meetings in Isenberg 112 on Mondays we
 
 ### Instagram
 
-Check out some recent events here on our [instagram](https://www.instagram.com/mccormackumass/){:target="\_blank"}!
+Check out some recent events here on our [instagram](https://www.instagram.com/msaumass/){:target="\_blank"}!
 
 <!-- TODO include clickbait internship posting drop here -->
 

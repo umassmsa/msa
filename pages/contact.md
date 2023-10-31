@@ -18,4 +18,4 @@ Also, check out our [discord](https://discord.com/channels/765584253333143552/82
 
 ### Can't get enough MSA Content?
 
-Follow us on [Instagram](https://www.instagram.com/mccormackumass/){:target="\_blank"} for updates on club events!
+Follow us on [Instagram](https://www.instagram.com/msaumass/){:target="\_blank"} for updates on club events!

@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Where Passion Meets Career.
+# title: Where Passion Meets Career.
 ---
 
 <!-- TODO big spell check -->
 
-![UMass MSA Logo](https://nfordumass.github.io/msa/assets/img/oldLogo.png)
+<!-- ![UMass MSA Logo](https://nfordumass.github.io/msa/assets/img/oldLogo.png) -->
 
-<!-- ![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/noahford.png) -->
+# Where Passion Meets Career.
+
+![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/gmColor.png)
+_Check out our [GM Challenge](gm)!_
 
 ## MSA - McCormack Sports Analytics Club
 
