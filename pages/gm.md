@@ -6,7 +6,8 @@ permalink: /gm
 
 <!-- main image is a spreadsheet cut into a photo of the event -->
 
-![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/gmColor.png)
+<img src="https://nfordumass.github.io/msa/assets/img/gmColor.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
+<!-- ![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/gmColor.png) -->
 Welcome to MSA’s 2nd annual NFL GM Challenge! <br><br>
 You will take on the coveted mantle of general manager of an NFL team and compete against your peers via drafting, trades, and signings as you look to manage the salary cap while building the next Super Bowl winner! <br>
 
@@ -40,7 +41,8 @@ Venmo the $5 to @Jake_Welz with payment description as "NFL GM Challenge"
 Sign up before registration closes on November 30!
 [Link Here](https://docs.google.com/forms/d/e/1FAIpQLSdmT8oe6w9e_GwuwlplhqRuqG3tLIqiOCxkeyhXPZfOU6s1jg/viewform){:target="\_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmT8oe6w9e_GwuwlplhqRuqG3tLIqiOCxkeyhXPZfOU6s1jg/viewform?embedded=true" width="640" height="2007" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Cut the form out -->
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmT8oe6w9e_GwuwlplhqRuqG3tLIqiOCxkeyhXPZfOU6s1jg/viewform?embedded=true" width="640" height="2007" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
 <!-- ## Signing up FAQs
 

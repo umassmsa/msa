@@ -9,8 +9,7 @@ layout: page
 
 # Where Passion Meets Career.
 
-![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/gmColor.png)
-_Check out our [GM Challenge](gm)!_
+<img src="https://nfordumass.github.io/msa/assets/img/gmColor.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">_Check out our [GM Challenge](gm)!_
 
 ## MSA - McCormack Sports Analytics Club
 
