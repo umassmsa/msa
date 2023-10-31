@@ -14,7 +14,7 @@ Join our 50+ members in the fastest growing club in Isenberg!
 
 ### Weekly Meetings
 
-In our weekly meetings in Isenberg 112 on Mondays we
+In our weekly meetings in Isenberg 122 on Mondays we
 
 - Network with guest speakers and alumni on top of the sports industry
 - Hold coding workshops in Python and R working with web scraping, apis, and data visualization
