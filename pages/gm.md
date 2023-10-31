@@ -50,17 +50,16 @@ Yes! -->
 
 ## Last Year Highlights!
 
-<!-- show twitter updates -->
+### Team Cap Sheets
 
+Homebase of challenge where cap space and draft picks tracked
+
+<!-- <iframe width="560" height="315" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQdZRZfJ-65d-Dfi9kPIm_x-FN3sIRc-8k6LCIB5YhSvhyj6Udwr_-1P4CxqjZwHLNETQ4wqZIUiB1Y/pubhtml?widget=true&amp;headers=false"></iframe> -->
+<img src="https://nfordumass.github.io/msa/assets/img/kcGM.png" alt="Kansas City Chiefs Sample Sheet" style="width:70%;height:70%; padding-top:10px">
+<img src="https://nfordumass.github.io/msa/assets/img/nyjGM.png" alt="New York Jets Sample Sheet" style="width:70%;height:70%; padding-top:10px">
 ### Real Time Twitter updates
 
 Broadcasting news and throwing wrenches into plans
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eagles recent draft pick Jalen Carter has attempted to renegotiate his contract with the team. He has given the ultimatum of either being given an $8M pay increase, or he will not play for the team <a href="https://twitter.com/hashtag/msaumass?src=hash&amp;ref_src=twsrc%5Etfw">#msaumass</a></p>&mdash; McCormack Strategy &amp; Analytics (@msaumass) <a href="https://twitter.com/msaumass/status/1654914714856484865?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jets long snapped Thomas Hennessy has demanded his brother Matt Hennessy of the Falcons be traded to the Jets. If not, Thomas&#39; best friend on the team Jalen Ramsey plans to sit out in support of togetherness of family <a href="https://twitter.com/hashtag/msaumass?src=hash&amp;ref_src=twsrc%5Etfw">#msaumass</a></p>&mdash; McCormack Strategy &amp; Analytics (@msaumass) <a href="https://twitter.com/msaumass/status/1654910468836978688?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- show spreadsheets -->
-### Team Cap Sheets
-Homebase of challenge where draft picks tracked, cap space accounted for
-<iframe width="560" height="315" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQdZRZfJ-65d-Dfi9kPIm_x-FN3sIRc-8k6LCIB5YhSvhyj6Udwr_-1P4CxqjZwHLNETQ4wqZIUiB1Y/pubhtml?widget=true&amp;headers=false"></iframe>
-<img src="https://nfordumass.github.io/msa/assets/img/kcGM.png" alt="Kansas City Chiefs Sample Sheet" style="width:70%;height:70%; padding-top:10px">
-<img src="https://nfordumass.github.io/msa/assets/img/nyjGM.png" alt="New York Jets Sample Sheet" style="width:70%;height:70%; padding-top:10px">
