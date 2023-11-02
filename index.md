@@ -54,9 +54,9 @@ We're excited you're here! [Next steps to join!](join)
 
 ### Meet the Team!
 
-Check out our [officers and members](team) for 2023-2024!
+Check out our [officers](team) for 2023-2024!
 
-<!-- Check out our [officers and members](bios.html) for 2023-2024! -->
+<!-- Check out our [officers and members](testbios.html) for 2023-2024! -->
 
 <!-- TODO list a bunch of companies here where students have gone -->
 

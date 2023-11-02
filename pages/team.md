@@ -8,15 +8,15 @@ Our entire club constitutes the most intellectual, devoted, and impressive stude
 
 ## Executive Board
 
-<!-- TODO, fill out majors, year, bios -->
-
 ### Matt Holdgate
 
-Co-President, Class '24, Operations and Information Management
+Co-President, Class '24
+I am a senior Sport Management & OIM dual degree candidate with a minor in Mathematics from Nantucket, MA. Last summer I worked for the Boston Bruins as a Business Strategy Intern. College Football is my analytic specialty where I enjoy using college statistics to predict NFL success. I’m all Boston for sports teams and represent Wazzu proudly for CFB.
 
 ### Nate Arch
 
-Co-President, Class '25, Sport Management and Math
+Co-President, Class '25
+I am currently a junior, majoring in Sport Management and working towards a certificate in data analytics from Auburn, MA. I serve as the statistics manager for the UMass Women's Lacrosse Team. My speciality lies in baseball and player evaluation. Looking ahead, my ultimate goal is to assume a leadership position within a Major League Baseball operations department.
 
 ### Delton Record
 
@@ -33,6 +33,11 @@ I am a junior Sport Management major from Needham, MA. I currently work for Kraf
 Treasurer, Class ‘25
 I am a sophomore Computer Science and Math double major from Acton, MA. After enduring soccer parents for six years as a referee throughout middle and high school, I am now an incoming intern at Oliver Wyman in Actuarial Consulting next summer. I love distance running, making stir fries, reading nonfiction, and watching the Jets season crumble every year.
 
+### Nate Feigenbaum
+
+Class '25, Sport Management
+I am a junior Sport Management major and working towards a certificate in data analytics from Long Island, NY. During my time at UMass I have worked at the Mullins Center on the operations team, UMass Athletics as a marketing intern, and currently the UMass Women’s Lacrosse Team as a statistics manager. My favorite sport is football and my goal is to work in an NFL front office after graduation.
+
 ### Jake Welz
 
 Director of Special Events, Class ‘25
@@ -44,9 +49,5 @@ I am a junior OIM and Sport Management major from Easton, MA. I’ve worked for 
 
 Class ‘26
 I am a sophomore operations and information management and sport management double major from South Orange, NJ. This past summer, I worked as an intern for the Atlantic Baseball Confederation Collegiate League in New Jersey, and I currently am working for UMass Athletics on their Operations Team. I am a huge football fan, and my favorite team is the Chargers. Outside of sports, I like cooking and trying good food and spending time in nature.
-
-### Nate Feigenbaum
-
-Class '25, Sport Management
 
 <!-- TODO -->

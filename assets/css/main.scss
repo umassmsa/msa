@@ -27,3 +27,19 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+.bioContainer {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+  
+.bioImage {
+max-width: 100%;
+max-height:100%;
+}
+
+.bioDescription {
+font-size: 16px;
+padding-left: 20px;
+}

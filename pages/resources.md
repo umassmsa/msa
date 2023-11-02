@@ -25,15 +25,15 @@ Working with sports analytics is the perfect match of challenging technical skil
 
 - Dataquest: _youtuber with more advanced Python web scraping and machine learning_
   - Python web scraping NBA games [video](https://www.youtube.com/watch?v=o6Ih934hADU){:target="\_blank"}{:rel="noopener noreferrer"}
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/o6Ih934hADU?si=dj5UdJy3MMiQ-Aqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="70%" height="240" src="https://www.youtube.com/embed/o6Ih934hADU?si=dj5UdJy3MMiQ-Aqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   - Predict Football Match Winners With Machine Learning [video](https://www.youtube.com/watch?v=0irmDBWLrco){:target="\_blank"}{:rel="noopener noreferrer"}
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0irmDBWLrco?si=spiR0VQ8Z3Eoa1XR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="70%" height="240" src="https://www.youtube.com/embed/0irmDBWLrco?si=spiR0VQ8Z3Eoa1XR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - Kirk Goldsberry: _author, data visualization_
   - Sprawlball: A Visual Tour of the New Era of the NBA [book](https://www.google.com/search?q=sprawlball&oq=sprawlball&aqs=chrome.0.0i355i512j46i512j0i512l2j0i30l2j69i61j69i60.2250j0j7&sourceid=chrome&ie=UTF-8){:target="\_blank"}{:rel="noopener noreferrer"}
-  <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="500" height="200" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07M7S6JLK&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_DM4P1FR82X6GPW5B7XPT" ></iframe>
+  <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="70%" height="240" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07M7S6JLK&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_DM4P1FR82X6GPW5B7XPT" ></iframe>
 - Ken Jee: _youtuber with api work, scraping, data science_
   - nba_api Web Scrape [video](https://www.youtube.com/watch?v=NCyPY-jfb3I&t=1s){:target="\_blank"}{:rel="noopener noreferrer"}
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/NCyPY-jfb3I?si=QlurpLQcwIc3KqgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="70%" height="240" src="https://www.youtube.com/embed/NCyPY-jfb3I?si=QlurpLQcwIc3KqgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- TODO: research these classes -->
 <!-- TODO send to CICS to write these blurbs for me? -->
