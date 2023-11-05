@@ -9,7 +9,7 @@ layout: page
 
 # Where Passion Meets Career.
 
-<img src="https://nfordumass.github.io/msa/assets/img/gmColor.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">_Check out our [GM Challenge](gm)!_
+<img src="https://nfordumass.github.io/msa/assets/img/python.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">_Check out our [Python Workshop](python){:target="\_blank"}!_
 
 ## MSA - McCormack Sports Analytics Club
 
@@ -56,7 +56,7 @@ We're excited you're here! [Next steps to join!](join)
 
 Check out our [officers](team) for 2023-2024!
 
-Check out our [officers and members](testbios.html) for 2023-2024!
+<!-- Check out our [officers and members](testbios.html) for 2023-2024! -->
 
 <!-- TODO list a bunch of companies here where students have gone -->
 
