@@ -20,4 +20,4 @@ Open [this slideshow](https://docs.google.com/presentation/d/1XXgfSkwRq66XnAMTpv
 ## Materials
 
 <a href="https://nfordumass.github.io/msa/assets/python/finalPython.ipynb" download>Download Python notebook here </a>
-CSV Output
+<a href="https://nfordumass.github.io/msa/assets/python/output2.csv" download>Download CSV here </a>
