@@ -6,7 +6,7 @@ permalink: /gm
 
 <!-- main image is a spreadsheet cut into a photo of the event -->
 
-<img src="https://nfordumass.github.io/msa/assets/img/gmColor.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
+<img src="https://nfordumass.github.io/msa/assets/img/gmDate.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
 <!-- ![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/gmColor.png) -->
 Welcome to MSA’s 2nd annual NFL GM Challenge! <br><br>
 You will take on the coveted mantle of general manager of an NFL team and compete against your peers via drafting, trades, and signings as you look to manage the salary cap while building the next Super Bowl winner! <br>
