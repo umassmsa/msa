@@ -50,6 +50,30 @@ Sign up before registration closes on November 30!
 
 Yes! -->
 
+## How it Works
+
+- Draft Structure
+  - 5 rounds with a 6th round bid
+  - Bidding
+    - Silent auction
+    - Google form
+    - Positional minimum value determined based on criteria
+    - Following that will be a second silent bidding when there is no minimum
+    - Teams will figure out final 53
+    - Release remaining free agents
+- Timing
+  - 2 mins Round 1
+  - 1.5 mins Rounds 2,3
+  - 1 min Rounds 4, 5
+- Roles
+  - Commissioner
+  - Trades
+  - Cap Sheet
+  - E-board teams
+  - Schefter
+- Trades with e-board teams
+  - accept/reject, don’t make a counter offer, other team can come back and make a counter offer though (limit to how many counteroffers)
+
 ## Last Year Highlights!
 
 ### Team Cap Sheets
