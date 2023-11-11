@@ -31,21 +31,50 @@ $rss-color: #ff6600;
 .bioContainer {
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: left;
 }
   
 
-.bioDescription {
+.bioDescription {   
 max-width: 100%;
 font-size: 16px;
+// padding-right: 150px;
+
 }
 
 .bioP {
     font-size: 16px;
     max-width: 100%;
-    padding-right: 20px;
+    // padding-right: 20px;
 
 }
 .bioSubtitle {
     font-size: 20px;
+}
+
+.bioImage {
+    justify-content: right;
+}
+
+// chat gpt solution
+.team-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.team-text {
+    flex: 1;
+    // padding: 20px;
+}
+
+.team-image {
+    flex: 1;    
+    padding-top: 20px;
+}
+
+.team-image img {
+    width: 100%;
+    max-width: 400px; /* Adjust the max-width to fit your design */
+    height: auto;
 }
