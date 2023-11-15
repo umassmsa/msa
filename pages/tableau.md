@@ -12,6 +12,6 @@ Get ready to continue to be amazed!
 
 ## Materials
 
-<a href="https://nfordumass.github.io/msa/assets/tableau/nbaTotals202324.csv" download>Download Spreadsheet here </a> <br> <br>
+<a href="https://nfordumass.github.io/msa/assets/tableau/nbaTotals202324.xlsx" download>Download Spreadsheet here </a> <br> <br>
 
 <!-- <a href="https://nfordumass.github.io/msa/assets/python/output2.csv" download>Download CSV here </a> -->
