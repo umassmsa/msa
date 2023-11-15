@@ -8,8 +8,8 @@ google-ID: "UA-112060364-2"
 
 menu:
   - { name: "Home", url: "" }
-  # - { name: "Python Workshop", url: "python" }
-  - { name: "GM Challenge", url: "gm" }
+  - { name: "Tableau Workshop", url: "tableau" }
+  # - { name: "GM Challenge", url: "gm" }
   - { name: "Resources", url: "resources" }
   # - {name: 'Sample Posts',       url: 'sample-posts'}
   # - {name: 'Documentation',      url: 'documentation'}
