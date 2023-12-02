@@ -14,7 +14,8 @@ layout: page
 ## NFL GM Materials
 
 Make a copy of this [main spreadsheet](https://docs.google.com/spreadsheets/d/14kjLlJeD-GfusN7m5dBJ--7qphjKhB-mobEhzcwKR-U/edit?usp=sharing){:target="\_blank"}! <br>
-This will be the cap sheet for you use for the entire event
+This will be the cap sheet for you use for the entire event <br>
+Follow the updates to the event live [@msaumass](https://x.com/msaumass?s=20){:target="\_blank"} on twitter!
 
 ## MSA - McCormack Sports Analytics Club
 
