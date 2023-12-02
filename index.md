@@ -17,6 +17,10 @@ Make a copy of this [main spreadsheet](https://docs.google.com/spreadsheets/d/14
 This will be the cap sheet for you use for the entire event <br>
 Follow the updates to the event live [@msaumass](https://x.com/msaumass?s=20){:target="\_blank"} on twitter!
 
+### NFL GM Form to Fill Out:
+
+[Form link here!](https://docs.google.com/forms/d/e/1FAIpQLSdbkTSLtxFGksB3s4CKLEo6rg0J3edz316AKafm8MfXNWDDRw/viewform?usp=sf_link){:target="\_blank"}
+
 ## MSA - McCormack Sports Analytics Club
 
 ### Who are we?
