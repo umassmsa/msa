@@ -11,6 +11,11 @@ permalink: /gm
 Welcome to MSA’s 2nd annual NFL GM Challenge! <br><br>
 You will take on the coveted mantle of general manager of an NFL team and compete against your peers via drafting, trades, and signings as you look to manage the salary cap while building the next Super Bowl winner! <br>
 
+## Materials
+
+Make a copy of the spreadsheet below! <br>
+[Main Spreadsheet](https://docs.google.com/spreadsheets/d/14kjLlJeD-GfusN7m5dBJ--7qphjKhB-mobEhzcwKR-U/edit?usp=sharing){:target="\_blank"}
+
 ## How it works
 
 - Every NFL team will have their five best players taken off the roster and added to a common pool for all 32 teams to draft from (i.e. the Cincinnati Bengals would lose Joe Burrow, Ja’Marr Chase, and three more of their best players to the draft pool)
