@@ -9,7 +9,12 @@ layout: page
 
 # Where Passion Meets Career.
 
-<img src="https://nfordumass.github.io/msa/assets/img/gmDate.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">Check out our [NFL GM Challenge](gm)
+<img src="https://nfordumass.github.io/msa/assets/img/gmDate.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">Check out our [NFL GM Challenge!](gm)
+
+## NFL GM Materials
+
+Make a copy of this [main spreadsheet](https://docs.google.com/spreadsheets/d/14kjLlJeD-GfusN7m5dBJ--7qphjKhB-mobEhzcwKR-U/edit?usp=sharing){:target="\_blank"}! <br>
+This will be the cap sheet for you use for the entire event
 
 ## MSA - McCormack Sports Analytics Club
 
