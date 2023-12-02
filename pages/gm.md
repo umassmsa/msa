@@ -9,14 +9,14 @@ permalink: /gm
 <img src="https://nfordumass.github.io/msa/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
 <!-- ![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/gmColor.png) -->
 
-## Materials
+## NFL GM Materials
 
 Make a copy of this spreadsheet: <br>
 [Main Spreadsheet](https://docs.google.com/spreadsheets/d/14kjLlJeD-GfusN7m5dBJ--7qphjKhB-mobEhzcwKR-U/edit?usp=sharing){:target="\_blank"}! <br>
 This will be the cap sheet for you use for the entire event <br>
 Follow the updates to the event live [@msaumass](https://x.com/msaumass?s=20){:target="\_blank"} on twitter! <br>
 
-### Form to Fill Out:
+### Round 6 Free Agency Form to Fill Out:
 
 [Form link here!](https://docs.google.com/forms/d/e/1FAIpQLSdbkTSLtxFGksB3s4CKLEo6rg0J3edz316AKafm8MfXNWDDRw/viewform?usp=sf_link){:target="\_blank"}
 
