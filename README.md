@@ -17,7 +17,9 @@ Ok, now where do I make changes?
 The "settings.yml" file in the "data" folder.
 The section of code starting with "menu" creates each tab on the website.
 If you want to create a new tab, just follow the form of existing pages:
-- { name: "Name of new page", url: "veryImportant" }
+```yml
+- { name: "GM Challenge", url: "gm" }
+```
 We'll get to what this "url" means in a moment.
 
 ### Adding pages:
@@ -27,9 +29,13 @@ Notice that the file name is of the form: <name>.md
 Here, we can see the page is written in "Markdown"
 
 At the top of each page, you see something like:
+```html
+---
 layout: page
 title: NFL GM Challenge '23
 permalink: /gm
+---
+```
 
 The layout should be page, for pages.
 The title will appear at the top of the page on the website.
@@ -38,9 +44,9 @@ This permalink is how other pages in the website can reference this page.
 
 ### Inserting media:
 This is the most likey place you will run into the need for HTML.
-'''
+```html
 <img src="https://nfordumass.github.io/msa/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
-'''
+```
 
 ### Uploading media:
 Inside of the folder "assets" lies the images for the website.  
