@@ -47,6 +47,13 @@ This is the most likey place you will run into the need for HTML.
 ```html
 <img src="https://nfordumass.github.io/msa/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
 ```
+You will want the source to have the base url to be that of the msa github:
+```html
+<img src="https://umassmsa.github.io/msa/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
+```
+The alt means the alternative title, which will appear if the image does not load.
+That's about as hard as it gets!
+HTML is very easy!
 
 ### Uploading media:
 Inside of the folder "assets" lies the images for the website.  
