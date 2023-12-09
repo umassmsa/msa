@@ -27,11 +27,10 @@ Notice that the file name is of the form: <name>.md
 Here, we can see the page is written in "Markdown"
 
 At the top of each page, you see something like:
----
 layout: page
 title: NFL GM Challenge '23
 permalink: /gm
----
+
 The layout should be page, for pages.
 The title will appear at the top of the page on the website.
 **The permalink is that with which you called "url" in the navigation bar.**
