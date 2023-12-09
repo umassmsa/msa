@@ -1,6 +1,6 @@
 # McCormack Sports Analytics
 
-Welcome MSA Officers!  This is the github repository for the website.
+## Welcome MSA Officers!  This is the github repository for the website.
 
 There are two main ways you can interact with this website.
 1) Ideally, use a text editor like VSCode and use git commands: add, commit, and push to modify this github, and thus the website
@@ -13,14 +13,14 @@ For likely 100% of this uses of HTML, you can use ChatGPT to write the HTML for 
 
 Ok, now where do I make changes?
 
-Changing the navigation bar:
+### Changing the navigation bar:
 The "settings.yml" file in the "data" folder.
 The section of code starting with "menu" creates each tab on the website.
 If you want to create a new tab, just follow the form of existing pages:
 - { name: "Name of new page", url: "veryImportant" }
 We'll get to what this "url" means in a moment.
 
-Adding pages:
+### Adding pages:
 The pages are the content of the website.  Inside the aptly named "pages" folder, this is where you will interact the homepage or literally any new page you want to add in the navigation bar (or a page that you can't reach from a navigation bar!).
 
 Notice that the file name is of the form: <name>.md
@@ -36,14 +36,14 @@ The title will appear at the top of the page on the website.
 **The permalink is that with which you called "url" in the navigation bar.**
 This permalink is how other pages in the website can reference this page.
 
-Inserting media:
+### Inserting media:
+This is the most likey place you will run into the need for HTML.
 
-
-Uploading media:
+### Uploading media:
 Inside of the folder "assets" lies the images for the website.  
 You can simply upload more files into this folder.
 
-Small things to consider!
+### Small things to consider!
 Your changes may take at least 2-3 minutes to load, so don't worry if you don't seem them right away.
 The internet is your friend!  As this website is written in markdown and HTML, feel free to rely on resources to help fill out the code.
 
