@@ -38,6 +38,7 @@ This permalink is how other pages in the website can reference this page.
 
 ### Inserting media:
 This is the most likey place you will run into the need for HTML.
+"<img src="https://nfordumass.github.io/msa/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">"
 
 ### Uploading media:
 Inside of the folder "assets" lies the images for the website.  
