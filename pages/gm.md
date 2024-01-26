@@ -6,7 +6,7 @@ permalink: /gm
 
 <!-- main image is a spreadsheet cut into a photo of the event -->
 
-<img src="https://nfordumass.github.io/msa/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
+<img src="/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">
 <!-- ![NFL GM Challenge Logo](https://nfordumass.github.io/msa/assets/img/gmColor.png) -->
 
 ## NFL GM Materials
@@ -95,8 +95,8 @@ Yes! -->
 Homebase of challenge where cap space and draft picks tracked
 
 <!-- <iframe width="560" height="315" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQdZRZfJ-65d-Dfi9kPIm_x-FN3sIRc-8k6LCIB5YhSvhyj6Udwr_-1P4CxqjZwHLNETQ4wqZIUiB1Y/pubhtml?widget=true&amp;headers=false"></iframe> -->
-<img src="https://nfordumass.github.io/msa/assets/img/kcGM.png" alt="Kansas City Chiefs Sample Sheet" style="width:70%;height:70%; padding-top:10px">
-<img src="https://nfordumass.github.io/msa/assets/img/nyjGM.png" alt="New York Jets Sample Sheet" style="width:70%;height:70%; padding-top:10px">
+<img src="/assets/img/kcGM.png" alt="Kansas City Chiefs Sample Sheet" style="width:70%;height:70%; padding-top:10px">
+<img src="/assets/img/nyjGM.png" alt="New York Jets Sample Sheet" style="width:70%;height:70%; padding-top:10px">
 ### Real Time Twitter updates
 
 Broadcasting news and throwing wrenches into plans

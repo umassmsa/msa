@@ -42,7 +42,7 @@ Working with sports analytics is the perfect match of challenging technical skil
 
 <!-- TODO may not need this image -->
 <!-- ![UMass CICS Logo](https://nfordumass.github.io/msa/assets/img/cics.png) <br> -->
-<img src="https://nfordumass.github.io/msa/assets/img/cics.png" alt="UMass CICS Logo" style="width:70%;height:70%; padding-top:10px">
+<img src="/assets/img/cics.png" alt="UMass CICS Logo" style="width:70%;height:70%; padding-top:10px">
 
 Taught in Python, these UMass Introductory CS courses offer a great foundation for working with data science, web scraping, and understanding of data structures. <br>
 
