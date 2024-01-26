@@ -5,11 +5,9 @@ layout: page
 
 <!-- TODO big spell check -->
 
-<!-- ![UMass MSA Logo](https://nfordumass.github.io/msa/assets/img/oldLogo.png) -->
-
 # Where Passion Meets Career.
 
-<img src="/assets/img/bigGM.png" alt="NFL GM Challenge Logo" style="width:85%;height:85%; padding-top:10px">Check out our [NFL GM Challenge!](gm)
+<img src="/assets/img/oldLogo.png" alt="NFL GM Challenge Logo" style="width:50%;height:50%; padding-top:10px">Check out our [NFL GM Challenge!](gm)
 
 ## MSA - McCormack Sports Analytics Club
 
